@@ -1,0 +1,27 @@
+ORG-AFF	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation
+GEN-AFF	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#GeneralAffiliation
+PART-WHOLE	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PartWhole
+PHYS	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Physical
+PER-SOC	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PersonalSocial
+ORG-AFF:Student-Alum	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation.StudentAlum
+ORG-AFF:Ownership	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation.Ownership
+ORG-AFF:Founder	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation.Founder
+ORG-AFF:Investor-Shareholder	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation.InvestorShareholder
+PHYS:Near	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Physical.LocatedNear
+PER-SOC:Family	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PersonalSocial.Family
+PER-SOC:Business	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PersonalSocial.Business
+PART-WHOLE:Subsidiary	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PartWhole.Subsidiary
+
+
+
+ORG-AFF:Employment	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation.EmploymentMembership
+ORG-AFF:Membership	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation.EmploymentMembership
+PHYS:Located	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Physical.LocatedNear
+GEN-AFF:Citizen-Resident-Religion-Ethnicity	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#GeneralAffiliation.MORE
+ART	Artifact
+ART:User-Owner-Inventor-Manufacturer
+PART-WHOLE:Geographical
+PART-WHOLE:Artifact
+ORG-AFF:Sports-Affiliation
+GEN-AFF:Org-Location
+PER-SOC:Lasting-Personal
